@@ -6,7 +6,7 @@ Django react boilerplate for starting project without additional configs
 
 cd frontend/\
 npm i\
-npm run start\
+npm run start
 
 # Django
 
@@ -15,4 +15,4 @@ cd backend/\
 . venv\Scripts\activate - windows\
 pip install -r requirements.txt\
 cd core/\
-python manage.py runserver\
+python manage.py runserver
